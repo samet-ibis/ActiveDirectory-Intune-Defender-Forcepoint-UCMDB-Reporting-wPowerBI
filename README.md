@@ -60,3 +60,16 @@ Requirements; <br />
 Don't hesitate to contact with me, this README file is for person who has information about this things. I can help you for your reports. Just send me an email.  <br />
 E-Mail: asametibis@gmail.com  <br />
 More information will be come next weeks.
+
+
+![activedirectory](https://user-images.githubusercontent.com/100233276/226177721-7a09a55a-3fd1-48f8-98e4-d416abcf3441.PNG)
+
+![msdefenderdetailed](https://user-images.githubusercontent.com/100233276/226177788-c2b6524c-c47e-465f-b13c-be881011ffa9.PNG)
+![MSDefenderEmailSec](https://user-images.githubusercontent.com/100233276/226177791-dca1f78b-b22c-4ac4-af86-fbcab5d76a89.PNG)
+![ucmdb](https://user-images.githubusercontent.com/100233276/226177794-cf641c11-5b1a-4f8d-8486-c088b9928755.PNG)
+![bitlocker](https://user-images.githubusercontent.com/100233276/226177798-3e4a4d2b-5c4c-4c1a-8581-be9e6353d021.PNG)
+![forcepoint](https://user-images.githubusercontent.com/100233276/226177802-66b9724e-6c9c-4b1f-8090-3f1fd3734471.png)
+![installedappsdefender](https://user-images.githubusercontent.com/100233276/226177805-a5d28ce2-abc5-444e-b4a1-18882868c345.PNG)
+![intune](https://user-images.githubusercontent.com/100233276/226177806-bdb20449-b103-4eb1-8278-99795655c677.PNG)
+![MSDefender](https://user-images.githubusercontent.com/100233276/226177808-4601f22d-da7a-4fe8-b84b-bf8d8c8072c2.PNG)
+![MSDefenderAlarmTrend](https://user-images.githubusercontent.com/100233276/226177811-7c6e26e1-4fd3-4a7c-9912-e580a5fa3efa.PNG)
