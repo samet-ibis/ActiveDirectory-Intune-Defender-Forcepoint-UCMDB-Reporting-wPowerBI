@@ -61,6 +61,11 @@ Don't hesitate to contact with me, this README file is for person who has inform
 E-Mail: asametibis@gmail.com  <br />
 More information will be come next weeks.
 
+!!!!New Release for MAM (Mobile Application Management) report🙌
+![image](https://github.com/t0neex/ActiveDirectory-Intune-Defender-Forcepoint-UCMDB-Reporting-wPowerBI/assets/100233276/f904adc3-f12e-4841-a659-c3f867edd798)
+
+
+
 
 ![activedirectory](https://user-images.githubusercontent.com/100233276/226177721-7a09a55a-3fd1-48f8-98e4-d416abcf3441.PNG)
 
